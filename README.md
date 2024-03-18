@@ -10,27 +10,27 @@
 ## Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"></a>
+<a href="https://golang.org"><img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"></a>
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"></a>
 
 ### Frameworks
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=echo)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas"></a>
+<a href="https://echo.labstack.com/"><img src="https://img.shields.io/badge/-Echo-black?style=flat-square"></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring"></a>
 
 ### Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox)
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws"></a>
+<a href="https://www.proxmox.com/en/"><img src="https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox"></a>
 
 ### Certifications
-![ISC2 CC](https://img.shields.io/badge/-ISC2%20CC-black?style=flat-square)
-![CompTIA Cloud+](https://img.shields.io/badge/-CompTIA%20Cloud+-black?style=flat-square)
-![CompTIA Network+](https://img.shields.io/badge/-CompTIA%20Network+-black?style=flat-square)
-![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-black?style=flat-square)
+<a href="https://www.isc2.org/Certifications/CC"><img src="https://img.shields.io/badge/-ISC2%20CC-black?style=flat-square"></a>
+<a href="https://www.comptia.org/certifications/cloud"><img src="https://img.shields.io/badge/-CompTIA%20Cloud+-black?style=flat-square"></a>
+<a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20Network+-black?style=flat-square"></a>
+<a href="https://www.comptia.org/certifications/a"><img src="https://img.shields.io/badge/-CompTIA%20A+-black?style=flat-square"></a>
 
 ## Featured Projects
 
