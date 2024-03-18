@@ -9,14 +9,28 @@
 
 ## Skills
 
-<div align="center">
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"></a>
-  <a href="https://dev.java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"></a>
-  <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
-</div>
+### Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
+### Frameworks
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=echo)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox)
+
+### Certifications
+![ISC2 CC](https://img.shields.io/badge/-ISC2%20CC-black?style=flat-square)
+![CompTIA Cloud+](https://img.shields.io/badge/-CompTIA%20Cloud+-black?style=flat-square)
+![CompTIA Network+](https://img.shields.io/badge/-CompTIA%20Network+-black?style=flat-square)
+![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-black?style=flat-square)
 
 ## Featured Projects
 
