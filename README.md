@@ -3,8 +3,8 @@
 ## About Me
 
 - 🧠 I'm a passionate student with experience in networking, cybersecurity, and computer hardware.
-- 🌱 Currently learning Go, data structures and algorithms.
-- 🚀 Interested in learning new stuff, video games, keyboards, and creating new things.
+- 🌱 Currently learning Java and discrete math.
+- 🚀 Interested in learning new stuff, video games, keyboards, and building new things.
 - 📫 Reach me at: [hi@justinmenzies.com](mailto:hi@justinmenzies.com)
 
 ## Skills
