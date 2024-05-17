@@ -35,6 +35,7 @@
 [![CompTIA Cloud+](https://img.shields.io/badge/-CompTIA%20Cloud+-black?style=flat-square)](https://www.comptia.org/certifications/cloud)
 [![CompTIA Network+](https://img.shields.io/badge/-CompTIA%20Network+-black?style=flat-square)](https://www.comptia.org/certifications/network)
 [![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-black?style=flat-square)](https://www.comptia.org/certifications/a)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-black?style=flat-square)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Featured Projects
 
