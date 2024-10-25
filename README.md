@@ -40,7 +40,7 @@
 ## Featured Projects
 
 - [Mango Markets](https://github.com/jp-mango/mango-markets) - **CLI** financial app using `Go, MongoDB, Docker, and Alphavantage API`
-- [Resume Website](https://github.com/jp-mango/Resume) - Resume website made with `HTML, CSS, and Javascipt`. Hosted on **AWS** using `S3, CloudFront, API Gateway, Lambda and DynamoDB`. **CI/CD** using `Github actions`
+- [Resume Website](https://justinmenzies.com) - Resume website made with `HTML, CSS, and Javascipt`. Hosted on **AWS** using `S3, CloudFront, API Gateway, Lambda and DynamoDB`. **CI/CD** using `Github actions`
 
 ## Connect with Me
 
