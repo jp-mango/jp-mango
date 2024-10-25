@@ -45,4 +45,4 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/justin-menzies-926464192/)
-- [Personal Website](https://justinmenzies.com/)
+- [Personal Website](https://justinmenzies.com/resume_contact.html)
