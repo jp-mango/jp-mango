@@ -3,8 +3,8 @@
 ## About Me
 
 - 🧠 I'm a passionate student with experience in networking, cybersecurity, and computer hardware.
-- 🌱 Currently learning Java and discrete math.
-- 🚀 Interested in learning new stuff, video games, keyboards, and building new things.
+- 🌱 Currently learning Go
+- 🚀 Interested in learning and building new things, video games, keyboards.
 - 📫 Reach me at: [hi@justinmenzies.com](mailto:hi@justinmenzies.com)
 
 ## Skills
@@ -15,13 +15,6 @@
 [![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)](https://golang.org)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)](https://isocpp.org/)
-
-### Frameworks
-
-[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
-[![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)](https://gin-gonic.com/)
-[![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)](https://spring.io/)
 
 ### Tools & Platforms
 
@@ -41,6 +34,7 @@
 
 - [Mango Markets](https://github.com/jp-mango/mango-markets) - **CLI** financial app using `Go, MongoDB, Docker, and Alphavantage API`
 - [Resume Website](https://justinmenzies.com) - Resume website made with `HTML, CSS, and Javascipt`. Hosted on **AWS** using `S3, CloudFront, API Gateway, Lambda and DynamoDB`. **CI/CD** using `Github actions`
+- [Mango Monopoly](https://github.com/jp-mango/mango-monopoly) - Real estate web application built using Go, Python, and Postgres
 
 ## Connect with Me
 
