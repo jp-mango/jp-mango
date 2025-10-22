@@ -20,6 +20,7 @@
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/)
 [![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat-square&logo=proxmox)](https://www.proxmox.com/en/)
 
 ### Certifications
